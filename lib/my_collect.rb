@@ -7,5 +7,3 @@ def collect_method(array)
   end
   collection
 end
-    
-
